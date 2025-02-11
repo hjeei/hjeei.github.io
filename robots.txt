@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hjeei.csgad.com/dri/sitemap.xml.gz
